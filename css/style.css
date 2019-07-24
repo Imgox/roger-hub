@@ -118,8 +118,8 @@ input:focus {
 }
 
 a:link, a:visited {
-	margin: auto;
-	padding-top: 50px;
+	margin: 50px 0px 0px 0px;
+	padding: 0px;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 10px;
 	color: white;
