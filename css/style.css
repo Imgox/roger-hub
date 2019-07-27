@@ -70,7 +70,8 @@ input[type=text],input[type=password]  {
 	-ms-transition: all 0.30s ease-in-out;
 	-o-transition: all 0.30s ease-in-out;
 	outline: none;
-
+	font-family: 'Montserrat', sans-serif;
+	font-size: 150%;
 }
 .input-container {
 	border: 2px solid #F7971D;
